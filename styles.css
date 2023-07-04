@@ -1,0 +1,33 @@
+.form-group{
+    max-width: 500px;
+    margin: 220px auto;
+}
+.form-group h2{
+    text-align: center;
+}
+#form-group-input{
+    max-width: 400px;
+    margin: auto;
+    outline: none;
+}
+#form-group-input input{
+    border-color: #afbbff;
+}
+#forgetpwd{
+    text-align: center; 
+}
+#forgetpwd a:hover{
+    text-decoration: underline !important; 
+}
+#button{
+    width: 100%;
+    background-color: #5871fa;
+}
+#button:hover{
+    background-color: #425cf5;
+}
+#image{
+    margin-top: 100px;
+    max-width: 100%;
+}
+
